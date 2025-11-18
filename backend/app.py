@@ -7,8 +7,8 @@ CORS(app)
 
 # Database Configuration
 db_config = {
-    'host': '34.61.89.248',  # mysql database public-ip
-    'user': 'test',
+    'host': 'book-rds.cinsoscgioqa.us-east-1.rds.amazonaws.com',  # mysql database public-ip
+    'user': 'admin',
     'password': 'admin@123',
     'database': 'dev'
 }
